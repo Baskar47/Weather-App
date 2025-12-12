@@ -1,0 +1,12 @@
+body{
+  background-image: url('./assets/backround.jpg');
+
+  background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+  /* background: #416270;
+background: linear-gradient(90deg, rgba(65, 98, 112, 1) 37%, rgba(87, 199, 133, 1) 100%, rgba(237, 221, 83, 1) 100%); */
+  display: flex;
+  justify-content: center;
+}
